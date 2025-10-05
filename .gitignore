@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Models (too large for git)
+models/
+*.pth
+*.pt
+
+# Data
+datasets/
+*.csv
+*.jpeg
+*.jpg
+*.png
+live_tp9_spectrograms/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
