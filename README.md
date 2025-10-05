@@ -1,3 +1,4 @@
+![EEG to Art Generation](assets/IM1.png)
 # Soma: EEG-to-Art Feedback Loop
 
 An interactive art installation that captures live EEG data from a Muse headset, converts it to spectrograms, and uses trained pix2pix models to generate abstract visual art in real-time.
@@ -16,25 +17,7 @@ As AI becomes integrated into work, therapy, entertainment, and relationships, S
 
 ## Demo
 
-### User Experience
-
-![User Experience](assets/VID5.mp4)
-![User Experience](assets/VID3.mp4)
-
-*Participant wearing the Muse headset observing real-time visual generation from their brainwaves*
-
-### Live Generation
-
-![Live EEG to Art Generation](assets/VID2.mp4)
-![Live EEG to Art Generation](assets/VID4.mov)
-
-*Side-by-side view: Raw EEG spectrogram (left) and AI-generated artwork (right)*
-
-### Training Process
-
-![Training Process](assets/training)
-
-*Model training workflow showing the pix2pix learning process*
+**Demonstration videos** (user experience, training process) are available in the `assets/` folder.
 
 ## Prerequisites
 
